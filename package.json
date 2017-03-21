@@ -72,7 +72,7 @@
     "ember-try": "^0.2.11",
     "ensure-posix-path": "^1.0.2",
     "escape-string-regexp": "^1.0.3",
-    "execa": "^0.6.0",
+    "execa": "0.6.2",
     "exists-sync": "0.0.4",
     "exit": "^0.1.2",
     "express": "^4.12.3",
